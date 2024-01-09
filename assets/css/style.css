@@ -187,8 +187,11 @@ main {
 }
 
 /* Hero */
+.container {
+  margin-top: 30px;
+}
 .hero {
-  padding-top: 20px;
+  padding-top: 0px;
   min-height: 100vh;
   color: #fff;
   background-color: var(--color-secondary);
